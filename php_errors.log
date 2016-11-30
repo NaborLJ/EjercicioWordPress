@@ -1,0 +1,109 @@
+[25-Nov-2016 09:47:52 UTC] PHP Parse error:  syntax error, unexpected ''menu2'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ubuntu/workspace/wp-content/themes/temaprueba/functions.php on line 3
+[25-Nov-2016 09:47:52 UTC] PHP Stack trace:
+[25-Nov-2016 09:47:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[25-Nov-2016 09:47:52 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[25-Nov-2016 09:47:52 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[25-Nov-2016 09:47:52 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:39
+[25-Nov-2016 09:47:52 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:06:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'arphabet_widgets_init' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[28-Nov-2016 12:06:17 UTC] PHP Stack trace:
+[28-Nov-2016 12:06:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[28-Nov-2016 12:06:17 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[28-Nov-2016 12:06:17 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[28-Nov-2016 12:06:17 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:39
+[28-Nov-2016 12:06:17 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:06:17 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:411
+[28-Nov-2016 12:06:17 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:06:17 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:06:17 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1474
+[28-Nov-2016 12:06:17 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:06:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'arphabet_widgets_init' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[28-Nov-2016 12:06:44 UTC] PHP Stack trace:
+[28-Nov-2016 12:06:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[28-Nov-2016 12:06:44 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[28-Nov-2016 12:06:44 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[28-Nov-2016 12:06:44 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:39
+[28-Nov-2016 12:06:44 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:06:44 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:411
+[28-Nov-2016 12:06:44 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:06:44 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:06:44 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1474
+[28-Nov-2016 12:06:44 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:06:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'arphabet_widgets_init' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[28-Nov-2016 12:06:46 UTC] PHP Stack trace:
+[28-Nov-2016 12:06:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[28-Nov-2016 12:06:46 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[28-Nov-2016 12:06:46 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[28-Nov-2016 12:06:46 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:39
+[28-Nov-2016 12:06:46 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:06:46 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:411
+[28-Nov-2016 12:06:46 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:06:46 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:06:46 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1474
+[28-Nov-2016 12:06:46 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'arphabet_widgets_init' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[28-Nov-2016 12:07:30 UTC] PHP Stack trace:
+[28-Nov-2016 12:07:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[28-Nov-2016 12:07:30 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[28-Nov-2016 12:07:30 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:39
+[28-Nov-2016 12:07:30 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:07:30 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:411
+[28-Nov-2016 12:07:30 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:30 UTC] PHP   7. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:30 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1474
+[28-Nov-2016 12:07:30 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'arphabet_widgets_init' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[28-Nov-2016 12:07:30 UTC] PHP Stack trace:
+[28-Nov-2016 12:07:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[28-Nov-2016 12:07:30 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[28-Nov-2016 12:07:30 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:39
+[28-Nov-2016 12:07:30 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:07:30 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:411
+[28-Nov-2016 12:07:30 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:30 UTC] PHP   7. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:30 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1474
+[28-Nov-2016 12:07:30 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'arphabet_widgets_init' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[28-Nov-2016 12:07:42 UTC] PHP Stack trace:
+[28-Nov-2016 12:07:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[28-Nov-2016 12:07:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[28-Nov-2016 12:07:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:39
+[28-Nov-2016 12:07:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:07:42 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:411
+[28-Nov-2016 12:07:42 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:42 UTC] PHP   7. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:42 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1474
+[28-Nov-2016 12:07:42 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'arphabet_widgets_init' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[28-Nov-2016 12:07:48 UTC] PHP Stack trace:
+[28-Nov-2016 12:07:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[28-Nov-2016 12:07:48 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[28-Nov-2016 12:07:48 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:39
+[28-Nov-2016 12:07:48 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:07:48 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:411
+[28-Nov-2016 12:07:48 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:48 UTC] PHP   7. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:07:48 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1474
+[28-Nov-2016 12:07:48 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:09:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'temaprueba_widgets_init' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[28-Nov-2016 12:09:13 UTC] PHP Stack trace:
+[28-Nov-2016 12:09:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[28-Nov-2016 12:09:13 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[28-Nov-2016 12:09:13 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:39
+[28-Nov-2016 12:09:13 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:09:13 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:411
+[28-Nov-2016 12:09:13 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:09:13 UTC] PHP   7. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:09:13 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1474
+[28-Nov-2016 12:09:13 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:10:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'arphabet_widgets_init' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[28-Nov-2016 12:10:13 UTC] PHP Stack trace:
+[28-Nov-2016 12:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[28-Nov-2016 12:10:13 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[28-Nov-2016 12:10:13 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:39
+[28-Nov-2016 12:10:13 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[28-Nov-2016 12:10:13 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:411
+[28-Nov-2016 12:10:13 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:10:13 UTC] PHP   7. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[28-Nov-2016 12:10:13 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1474
+[28-Nov-2016 12:10:13 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
