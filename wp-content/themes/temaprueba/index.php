@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <?php get_header(); ?>
-
+<div id="index"> 
         <p><h1>Hello to my web </h1></p>
-        <h1>Menu</h1>
-        <?php wp_nav_menu(array('menu'=>'menu2'));?>
         <?php 
         if (have_posts()) {
          while (have_posts()) {
@@ -17,7 +15,7 @@
         }
         
        ?>
-       
+</div>       
         <?php get_sidebar();?>
         <?php get_footer();?>
  
